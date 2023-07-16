@@ -30,7 +30,8 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 DEBUG = True
 
 ALLOWED_HOSTS = ["8000-alayousef-djangoblog-u3phi9e4ucb.ws-eu101.gitpod.io",
-                 "codestar-alaa-2023.herokuapp.com", "localhost"]
+                 "https://codestar-alaa-2023-638797384a1e.herokuapp.com", 
+                 "localhost"]
 
 
 # Application definition
